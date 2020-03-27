@@ -15,4 +15,8 @@ public class test {
         System.out.println("git test");
         System.out.println("git test");
     }
+
+    public void calc() {
+        System.out.println("测试代码");
+    }
 }
